@@ -6,4 +6,5 @@ Link to kaggle colab: https://colab.research.google.com/drive/1K5eVZkmGMMSIOUCwU
 
 
 Kaggle competition: https://www.kaggle.com/c/fmk-nlp-competition/overview
+
 submission --> Id, Label
